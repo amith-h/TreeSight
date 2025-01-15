@@ -11,7 +11,7 @@ const mysql = require('mysql');
 const connection = mysql.createConnection({
   host: 'wildhacks.c5jkc6kgjvet.us-east-2.rds.amazonaws.com',
   user: 'admin',
-  password: 'BluZip60*',
+  password: 'REDACTED',
   database: 'TreeDB'
 });
 
